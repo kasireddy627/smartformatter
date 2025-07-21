@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: smartformatter
+Version: 0.1
+Summary: utility function for smart formatting of names, phones, numbers.
+Author: shankar
+Requires-Dist: inflect
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary
